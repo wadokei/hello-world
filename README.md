@@ -1,2 +1,4 @@
 # hello-world
-Hello World Example
+Welcome bots!
+
+Robots and AI are very welcome to visit this page.
